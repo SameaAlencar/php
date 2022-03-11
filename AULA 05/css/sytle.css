@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#conteudo{
+    width: 400px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 1px rgb(26, 219, 219);
+    text-align: center;
+    margin-top: 10%;
+}
+
+#titulo{
+    width: inherit;
+    height: 40px;
+    margin-bottom: 40%;
+    position: absolute;
+    text-align: justify;
+    font-size: 25px;
+}
+
+#form{
+    width: inherit;
+    height: 200px;
+    padding-top: 20px;
+    margin-top: 30%;
+
+}
+input{
+    margin-bottom: 10px;
+    margin-left: 10px;
+    text-align:end;
+    font-size: 10px;
+}
+#botao{
+        width: 150px;
+        height: 200px;
+        text-align: end;
+        float: left;
+        align-items: flex-end;
+     
+    }
+
+#resultado{
+    width: 180px;
+    height: 180px;
+    background-color: khaki;
+    padding-top: 2px;
+    font-size: 15px;
+    font: bold;
+}
+

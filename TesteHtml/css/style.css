@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+header{
+    width: 100%;
+    height: 250px;
+    background-color: bisque;
+    padding-top: 50px;
+
+}
+
+#containerHeader{
+    width: 300px;
+    height: 150px;
+    background-color: black;
+    margin:auto;
+
+}
+#contato{
+    width: 100%;
+    height: 350px;
+    background-color: khaki;
+}
+
+#contato .conteudo{
+    background-color: rgb(158, 49, 122);
+}
+
+#produtos{
+    width: 100%;
+    min-height: 1000px;
+    height: auto;
+    overflow: hidden;
+    background-color: tomato;
+
+}
+
+.conteudo{
+    width: 1400px;
+    height: inherit;
+    margin: auto;
+    /* background-color: teal; */
+
+}
+
+.cardProduto{
+    width: 350px;
+    height: 450px;
+    background-color: maroon;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    
+}
+
+
